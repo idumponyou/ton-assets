@@ -1673,6 +1673,9 @@
 - address: 0:eaaca263d5941e1931d29a30e4a1efb506bbca277b49ce35a8fbacbade57ef55
   name: Twister The Dog
   symbol: TWIDO
+- address: 0:27990dea2b2783da432d958f072a5f7334d35b877b9a0f24a23fabab7d573201
+  name: Tower game token
+  symbol: TWR
 - address: 0:ce5575968f40140abe843ad00c12fd0f9b8d9c09ac1f2851fff78b5af325a506
   name: Reward Fight Club
   symbol: TYLER
